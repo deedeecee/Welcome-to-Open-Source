@@ -515,6 +515,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ronak Suthar</b></sub>
                 </a>
             </td>
+                <td align="center">
+                <a href="https://github.com/deedeecee">
+                    <img src="https://avatars.githubusercontent.com/u/76088949?v=4" width="100px;" alt="Debankar Dutta Chowdhury"/>
+                    <br />
+                    <sub><b>Debankar Dutta Chowdhury</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
